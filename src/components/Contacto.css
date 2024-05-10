@@ -1,0 +1,9 @@
+.contacto {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    background: linear-gradient(70deg, rgb(148, 148, 249), rgb(249, 166, 180), rgb(148, 148, 249));
+    padding: 20px;
+    border-radius: 24px;
+}
